@@ -26,3 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nurd11n&icon=10&color=13)](https://visitcount.itsvg.in)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
