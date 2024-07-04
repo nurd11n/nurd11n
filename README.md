@@ -1,5 +1,4 @@
-### My name is Nurdin, I'm from Kyrgyzstan
-#### BACKEND Development
+- BACKEND Development
 - 🔭 I’m currently working on this page(.
 
 # 📚 STACK:
