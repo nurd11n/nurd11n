@@ -1,7 +1,5 @@
-# Hi there 👋
-## BackEnd Development
 ### My name is Nurdin, I'm from Kyrgyzstan
-
+#### BACKEND Development
 - 🔭 I’m currently working on this page(.
 
 # 📚 STACK:
