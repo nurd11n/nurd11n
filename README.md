@@ -15,7 +15,5 @@ Skills: PYTHON / DJANGO / DJANGO REST FRAMEWORK  / NGINX / DOCKER / GUNICORN / P
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurd11n&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/nurd11n)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nurd11n)  
 
