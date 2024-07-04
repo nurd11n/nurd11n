@@ -1,18 +1,33 @@
-### Hi there 👋, my name is Nurdin
+### Hi there 👋
 #### BackEnd Development
-I'm from Kyrgyzstan
+My name is Nurdin, I'm from Kyrgyzstan
 
-Skills: PYTHON / DJANGO / DJANGO REST FRAMEWORK  / NGINX / DOCKER / GUNICORN / POSTGRES / SQLITE / GITHUB / GIT / GITHUB ACTIONS / CELERY / REDIS / JAZZMIN
+- 🔭 I’m currently working on this page.
 
-- 🔭 I’m currently working on this page. 
+# 📚 STACK:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4) 
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=nurd11n&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurd11n&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurd11n)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nurd11n&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nurd11n)](https://github.com/ryo-ma/github-profile-trophy)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurd11n&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurd11n&show_icons=true&theme=dark)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nurd11n&theme=dark)  
+---
+[![](https://visitcount.itsvg.in/api?id=nurd11n&icon=10&color=13)](https://visitcount.itsvg.in)
