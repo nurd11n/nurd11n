@@ -1,8 +1,8 @@
-### Hi there 👋
-#### BackEnd Development
-My name is Nurdin, I'm from Kyrgyzstan
+# Hi there 👋
+## BackEnd Development
+### My name is Nurdin, I'm from Kyrgyzstan
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on this page(.
 
 # 📚 STACK:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
