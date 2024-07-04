@@ -13,12 +13,12 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-# 📊 GitHub Stats:
+# 📊 STATS:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurd11n&theme=dark&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nurd11n&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurd11n&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 TROPHIES:
 ![](https://github-profile-trophy.vercel.app/?username=nurd11n&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
