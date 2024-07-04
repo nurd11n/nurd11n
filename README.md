@@ -20,6 +20,9 @@
 ![Jazzmin](https://img.shields.io/badge/jazzmin-%23000000.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame-%23FFA500.svg?style=for-the-badge&logo=pygame&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300D88E.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup4-%2333A441.svg?style=for-the-badge&logo=beautifulsoup4&logoColor=white)
+![Allauth](https://img.shields.io/badge/allauth-Google%20Registration-%2300D88E.svg?style=for-the-badge&logo=google&logoColor=white)
+
 
 # 📊 STATS:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurd11n&theme=dark&show_icons=true)
