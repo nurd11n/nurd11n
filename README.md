@@ -16,6 +16,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jazzmin](https://img.shields.io/badge/jazzmin-%23000000.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame-%23FFA500.svg?style=for-the-badge&logo=pygame&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300D88E.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 # 📊 STATS:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurd11n&theme=dark&show_icons=true)
