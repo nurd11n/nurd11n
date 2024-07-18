@@ -28,9 +28,7 @@
 ![Certbot](https://img.shields.io/badge/certbot-2A9D8F?style=for-the-badge&logo=let's-encrypt&logoColor=white)
 
 # 📊 STATS:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurd11n&theme=dark&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nurd11n&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurd11n&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nurd11n&theme=dark&hide_border=false&cache_buster=1)
 
 ## 🏆 TROPHIES:
 ![](https://github-profile-trophy.vercel.app/?username=nurd11n&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
